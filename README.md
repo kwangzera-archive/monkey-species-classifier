@@ -1,5 +1,5 @@
 # monkey-species-classifier
-CNN implemented with PyTorch to classify 10 monkey species \\
+CNN implemented with PyTorch to classify 10 monkey species\
 (onboarding task for utra art)
 
 ## Setup notes
