@@ -11,6 +11,7 @@ CNN implemented with PyTorch to classify 10 monkey species\
 ## Features
 - visualization with tensorboard
 - ability to import and export models
+- `m.pt` accuracy of around 68%
 
 ## Todo
 - Figure out better way to integrate Kaggle with local
