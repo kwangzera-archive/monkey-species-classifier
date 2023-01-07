@@ -2,5 +2,5 @@ kaggle/
 runs/
 
 # https://stackoverflow.com/a/65777181
-models/
+models/*
 !models/m.pt
